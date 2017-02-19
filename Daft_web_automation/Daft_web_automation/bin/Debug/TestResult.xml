@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Akif\Desktop\Daft_web_automation\Daft_web_automation\bin\Debug\Daft_web_automation.dll" total="1" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-02-02" time="10:59:32">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8745" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Akif\Desktop\NUnit-2.6.4\bin" machine-name="AKIF-LAPTOP" user="Akif-laptop" user-domain="AKIF-LAPTOP" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Akif\Desktop\Daft_web_automation\Daft_web_automation\bin\Debug\Daft_web_automation.dll" executed="True" result="Failure" success="False" time="49.265" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Daft_web_automation" executed="True" result="Failure" success="False" time="49.258" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Search_Test" executed="True" result="Failure" success="False" time="49.257" asserts="0">
+            <results>
+              <test-case name="Daft_web_automation.Search_Test.daft_search_test" executed="True" result="Failure" success="False" time="43.830" asserts="0">
+                <categories>
+                  <category name="daft" />
+                </categories>
+                <failure>
+                  <message><![CDATA[Exception! Check the test logs!]]></message>
+                  <stack-trace><![CDATA[at Daft_web_automation.Search_Test.daft_search_test() in C:\Users\Akif\documents\visual studio 2015\Projects\Daft_web_automation\Daft_web_automation\Search_Test.cs:line 145
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
